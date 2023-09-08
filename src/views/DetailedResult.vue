@@ -17,7 +17,7 @@ const detailedResult = async () => {
         console.log(error.message);
     }
 }
-const result.value = detailedResult();
+result.value = detailedResult();
 
 
 </script>
